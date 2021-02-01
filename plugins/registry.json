@@ -61,7 +61,16 @@
         "icon_url": "https://i.imgur.com/qk85xdi.png",
         "thumbnail_url": "https://i.imgur.com/gUHB91v.png"
     },
-    "hastebin": {
+    "react-to-contact": {
+        "repository": "officialpiyush/modmail-plugins",
+        "branch": "master",
+        "description": "Contact to react!",
+        "bot_version": "2.20.1",
+        "title": "react-to-contact Plugin",
+        "icon_url": "https://images.ionadev.ml/b/ZIDUUsl.png",
+        "thumbnail_url": "https://images.ionadev.ml/b/ZIDUUsl.png"
+    },
+    "react-contact": {
         "repository": "officialpiyush/modmail-plugins",
         "branch": "master",
         "description": "Easily Upload Text To hastebin!",
