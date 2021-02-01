@@ -89,12 +89,12 @@
         "thumbnail_url": "https://images.ionadev.ml/b/ZIDUUsl.png"
         
         },
-    "leave-server": {
+    "dashboard": {
         "repository": "officialpiyush/modmail-plugins",
         "branch": "master",
         "description": "Don't want your bot in a server? Did someone invite it without your permission? If so, this plugin is useful for you!",
         "bot_version": "2.20.1",
-        "title": "Leave-server Plugin",
+        "title": "dashboardr Plugin",
         "icon_url": "https://images.ionadev.ml/b/ZIDUUsl.png",
         "thumbnail_url": "https://images.ionadev.ml/b/ZIDUUsl.png"
     },
